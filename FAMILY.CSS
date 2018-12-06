@@ -1,0 +1,37 @@
+
+body{background-image: url(baptism4.JPG);
+	
+}
+
+h1:hover{color: red;
+font-size: 350%;
+font-family: fantasy;
+border-bottom: 2PX solid red;
+border-right: 2px solid red;
+border-left: 2px solid red;
+width: 400px;
+text-align: center;
+box-shadow: 4px 4px 4px 4px;
+}
+
+img{
+	animation: backwards;
+	width: 350PX;
+	height: 200PX;
+	margin: 10PX;
+	transition: all 1s;
+
+}
+img:hover {
+	transform: scale(1.1);
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+iframe{stop-color: 
+
+}
